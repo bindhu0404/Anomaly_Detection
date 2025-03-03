@@ -1,0 +1,67 @@
+[
+    {
+        "video_hash": "69e5edb4b88a6f6db47b34b4d42df99b91a9bb35824a57e068c0426c06643b99",
+        "result": "Normal",
+        "confidence": 0.9974921941757202
+    },
+    {
+        "video_hash": "8000f457e4c1150249b6b1968769d9f10e11d8d79e1dcb31b425039e084d17b3",
+        "result": "Normal",
+        "confidence": 0.8315098285675049
+    },
+    {
+        "video_hash": "bfaaf3f33748cb5f39a99e5538500b5b0d30ccdae5c1458bc234203f9289d9aa",
+        "result": "Anomaly",
+        "confidence": 0.9995391368865967
+    },
+    {
+        "video_hash": "6553a5dccbf2ef2463b6c52e4cf5b331869ef101789deae096592aaf76af5315",
+        "result": "Normal",
+        "confidence": 0.9976791739463806
+    },
+    {
+        "video_hash": "4995501d646e69837e70bfd6fb5d915d2b862099b3dde37b3845b65a7f68bcfc",
+        "result": "Anomaly",
+        "confidence": 0.9744009375572205
+    },
+    {
+        "video_hash": "69e5edb4b88a6f6db47b34b4d42df99b91a9bb35824a57e068c0426c06643b99",
+        "result": "Normal",
+        "confidence": 0.9974921941757202
+    },
+    {
+        "video_hash": "f0f3e0bddd31fb59ceb606553fc7e6f6b193e9cc3645132c0ed9442d797fab6a",
+        "result": "Anomaly",
+        "confidence": 0.9991850256919861
+    },
+    {
+        "video_hash": "4995501d646e69837e70bfd6fb5d915d2b862099b3dde37b3845b65a7f68bcfc",
+        "result": "Anomaly",
+        "confidence": 0.9744009375572205
+    },
+    {
+        "video_hash": "69e5edb4b88a6f6db47b34b4d42df99b91a9bb35824a57e068c0426c06643b99",
+        "result": "Normal",
+        "confidence": 0.9974921941757202
+    },
+    {
+        "video_hash": "8000f457e4c1150249b6b1968769d9f10e11d8d79e1dcb31b425039e084d17b3",
+        "result": "Normal",
+        "confidence": 0.8315098285675049
+    },
+    {
+        "video_hash": "8000f457e4c1150249b6b1968769d9f10e11d8d79e1dcb31b425039e084d17b3",
+        "result": "Normal",
+        "confidence": 0.8315098285675049
+    },
+    {
+        "video_hash": "8000f457e4c1150249b6b1968769d9f10e11d8d79e1dcb31b425039e084d17b3",
+        "result": "Normal",
+        "confidence": 0.8315098285675049
+    },
+    {
+        "video_hash": "69e5edb4b88a6f6db47b34b4d42df99b91a9bb35824a57e068c0426c06643b99",
+        "result": "Normal",
+        "confidence": 0.9974921941757202
+    }
+]
